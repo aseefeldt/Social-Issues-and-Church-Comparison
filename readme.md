@@ -12,4 +12,4 @@ Housing Burdened Data:  https://www.jchs.harvard.edu/ARH_2017_cost_burdens_by_st
 Uninsured Data:https://aspe.hhs.gov/reports/state-county-local-estimates-uninsured-population
 
 Data Visulization 
-In the Tableau Map Visulization, you will seee # Social-Issues-and-Church-Comparison
+In the Tableau Map Visulization, you will seee a map of the USA.  You will be able to see the information per each state by hovering over or clicking on the state.  Below the map there is information for each state.  You can narrow down the state information or change the map wiht the drop down menu on the side (or bottom if you are on a mobile device) 
